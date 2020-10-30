@@ -1,0 +1,11 @@
+/* comment in css */
+/*
+property{
+	selector:value;
+}
+you end comments with */
+
+body{
+	color: grey;
+	background-color: black;
+}
